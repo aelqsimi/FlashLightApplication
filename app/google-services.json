@@ -1,17 +1,17 @@
 {
   "project_info": {
     "project_id": "torch-flashlight",
-    "project_number": "619824894478",
+    "project_number": "",
     "name": "Torch Flashlight"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:619824894478:android:572c9be86c5be880",
-        "client_id": "android:com.ximisoft.torchflashlight",
+        "mobilesdk_app_id": "",
+        "client_id": "",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "com.ximisoft.torchflashlight"
+          "package_name": ""
         }
       },
       "oauth_client": [],
@@ -20,7 +20,7 @@
         "analytics_service": {
           "status": 2,
           "analytics_property": {
-            "tracking_id": "UA-67498808-8"
+            "tracking_id": ""
           }
         },
         "cloud_messaging_service": {
