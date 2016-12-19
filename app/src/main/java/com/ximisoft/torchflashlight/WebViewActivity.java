@@ -1,9 +1,5 @@
 package com.ximisoft.torchflashlight;
 
-/**
- * Created by abdel on 31/10/15.
- */
-
 import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Intent;
