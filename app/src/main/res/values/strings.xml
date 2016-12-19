@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super Torch</string>
+    <string name="blinking_frequency_txt">Blinking frequency</string>
+    <string name="strobeTxt">Strobe</string>
+    <string name="BatteryLow">Battery low</string>
+    <string name="CantUseFlash">Your battery level is low, you can\'t use flash!</string>
+    <string name="FlashError">Error no flash detected</string>
+    <string name="FlashErrorMsg">Sorry, you can\'t use this application because your device doesn\'t support flash light!</string>
+</resources>
